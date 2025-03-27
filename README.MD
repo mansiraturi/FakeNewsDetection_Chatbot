@@ -4,7 +4,8 @@ This project implements a **Fake News Detection Chatbot** using a hybrid approac
 
 ## 🚀 Project Overview
 
-![demo image](assets\image.png)
+
+![demo image](assets/image.png) 
 
 ### 🔹 1. Data Preprocessing & Model Development
 - **Dataset Preparation:**
