@@ -103,9 +103,10 @@ gcloud run deploy fakenews-chatbot \
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |-------|----------|-----------|---------|-----------|
-| Naive Bayes | [score] | [score] | [score] | [score] |
-| Logistic Regression | [score] | [score] | [score] | [score] |
-| LSTM | [score] | [score] | [score] | [score] |
+| Naive Bayes | [0.92] | [0.93] | [0.93] | [0.93] |
+| Logistic Regression | [0.98] | [0.99] | [0.98] | [0.99] |
+| LSTM | [0.99] | [0.99] | [1.00] | [1.00] |
+
 
 ## 🔄 Pipeline Architecture
 
