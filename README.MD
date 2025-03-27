@@ -97,7 +97,7 @@ gcloud run deploy fakenews-chatbot \
   --min-instances 1
 ```
 
-![deployment diagram](assets/lstm_img.png)
+![deployment diagram](assets/lstm_metrics.png)
 
 ## 📊 Model Performance
 
